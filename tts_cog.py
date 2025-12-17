@@ -2,10 +2,8 @@ import asyncio
 
 import discord
 import httpx
-import pyttsx3
 from discord.ext import commands
 
-from stw import response
 
 
 class TTSCog(commands.Cog):
